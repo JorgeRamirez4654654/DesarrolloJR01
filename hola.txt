@@ -1,1 +1,4 @@
 hola hola
+
+  git config --global user.email "jorgera12088@gmail.com"
+  git config --global user.name "JorgeRamirez4654654"
