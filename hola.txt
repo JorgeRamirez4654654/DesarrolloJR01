@@ -1,2 +1,12 @@
-hola hola
-2
+codepen
+
+
+1. local 
+Untracked
+
+2. staggin
+git commit -m "jjflejlf"
+
+3. web
+Modified
+Deleted 
