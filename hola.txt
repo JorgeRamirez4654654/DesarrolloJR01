@@ -14,3 +14,7 @@ Deleted
 
 git add .
 git commit -m "cambiar el color del boton principal a azul"
+
+
+--crear un nuevo repositorio que se llame por ejemplo "python"
+Trabajar Python
