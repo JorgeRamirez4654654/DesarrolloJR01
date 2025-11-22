@@ -10,3 +10,7 @@ git commit -m "jjflejlf"
 3. web
 Modified
 Deleted 
+
+
+git add .
+git commit -m "cambiar el color del boton principal a azul"
